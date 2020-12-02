@@ -1,5 +1,5 @@
 {
-    "name": "flipe23/yandex-object-storage-provider",
+    "name": "n1creator/yandex-object-storage-provider",
     "description": "Just add ServiceProvider for YandexObjectStorage",
     "require": {
         "league/flysystem-aws-s3-v3": "^1.0"
