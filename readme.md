@@ -6,7 +6,7 @@ Just add service provider for yandex cloud
 
 Via composer:
 
-    composer require flipe23/yandex-object-storage-provider
+    composer require n1creator/yandex-object-storage-provider
 
 ## Usage
 
